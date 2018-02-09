@@ -12,4 +12,7 @@ Files and their meanings:
 6. array.c - Contains methods specific to the 2D dynamic array used for this algorithm
 7. scanner.c - Contains methods to read in tokens from file
 
-To execute the graph files, the command "make tester" needs to be executed.
+Commands:
+- To create the exectuable, execute the command "make"
+- To execute the graph files, execute the command "make tester"
+- To clean up the files, execute the command "make clean"
