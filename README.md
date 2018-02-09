@@ -2,7 +2,7 @@ Implementation of Prims algorithm written by Jonathan Luetze
 
 Based on the input of a text file, the algorithm creates a graph using prims algorithm
 
-Files and their meanings:
+Overview of files in this repository:
 
 1. main.c - This is the main file
 2. binheap.c - Contains functions specific to the Binomial Heap
